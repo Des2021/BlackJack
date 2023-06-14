@@ -36,14 +36,7 @@ Una vez compilados los archivos, ejecuta las pruebas con el siguiente comando:
 java -cp junit-4.x.jar:. org.junit.runner.JUnitCore <nombre_de_la_clase_de_prueba>
 Reemplaza <nombre_de_la_clase_de_prueba> con el nombre de una de las clases de prueba, como BlackjackGameTest, CardTest, DeckTest o HandTest.
 
-## Contribuciones
-Si deseas contribuir a este proyecto, puedes hacerlo siguiendo estos pasos:
-
-Realiza un fork de este repositorio.
-Crea una nueva rama con el nombre de la característica o mejora que deseas implementar.
-Realiza tus cambios y mejoras en la nueva rama.
-Realiza un pull request para fusionar tus cambios en la rama principal.
-Espera a que tus cambios sean revisados y fusionados.
 ## Créditos
 Este juego de Blackjack fue desarrollado por Ramón García del Prado, Pablo Lliso y Daniel Elvira Sánchez.
+El programa se ha elaborado entre los integrantes del grupo en conjunto, no ha habido partes individuales, cada uno ha ido mejorando, corrigiendo y elaborando elaborando el código.
 
