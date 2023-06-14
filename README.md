@@ -23,6 +23,7 @@ javac BlackjackGame.java
 Una vez compilados los archivos, ejecuta la aplicación con el siguiente comando:
 java BlackjackGame
 Sigue las instrucciones en la interfaz gráfica para jugar al Blackjack.
+Para ingresar al juego deberás introducir un usuario cualquiera y la contraseña "1234".
 Pruebas unitarias
 La aplicación incluye pruebas unitarias para verificar el funcionamiento de algunas clases clave. Estas pruebas se encuentran en los archivos BlackjackGameTest.java, CardTest.java, DeckTest.java y HandTest.java. Para ejecutar las pruebas, sigue los siguientes pasos:
 
